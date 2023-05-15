@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#name: onoseme
+
+#description: work space 
+
+#date: 15/05/2023
+
+yum install net-tools -y
+
+yum install unzip -y
+
+yum install zip -y
