@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yum install httpd-y
+=======
+
+>>>>>>> f0ba1cd8a57f4ab25f22bc7cc47e7e7d78a7d9ee
